@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix: OSCA 4/25/26 12:30pm baron",
+  "description": "A centralized LGU platform for senior citizen welfare management, registration, and service delivery.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
